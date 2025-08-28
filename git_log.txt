@@ -1,0 +1,52 @@
+commit 3a318146343d133613951a4fd5def503851ac17a
+Merge: 38e066e 73f329e
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 22:32:13 2025 -0700
+
+    Merge index-fix to main
+
+commit 38e066eaaa3735cdd52de160ca3a1c05d808b8cc
+Merge: bfa144c a2ba915
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 22:19:40 2025 -0700
+
+    Merge index-fix to main
+
+commit a2ba915a5cb7d8946f67fc5c67401bf05b68aff0
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 21:55:53 2025 -0700
+
+    Update index.html
+
+commit bfa144c735ef3c7c0268580131043e72c2844d7d
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 21:50:49 2025 -0700
+
+    Update index.html
+
+commit c02f211508fc40885d9b0e42a3514efc47f73cb8
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 21:45:52 2025 -0700
+
+    Add README.md
+
+commit 73f329e6e3b5b046bd6ab4cda547b4d48e412bd2
+Merge: 1d2bfc0 2979491
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 21:41:16 2025 -0700
+
+    Merge pull request #1 from xmen2100/info-fill
+    
+    Update index.html
+
+commit 2979491196025fd777ac727e99b524862ebd613a
+Author: xmen2100 <119138813+xmen2100@users.noreply.github.com>
+Date:   Wed Aug 27 21:35:52 2025 -0700
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
